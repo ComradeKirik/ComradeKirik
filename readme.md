@@ -2,13 +2,13 @@
 
 Hello, I am Kirill
 
-Starting Backend Developer
+Beginner Backend Developer
 
 I'm learning how to code right now and there you can see my projects.
 
-You can't contact me right now.
+You can contact me but you need to wait up to week. Good luck.
 
-I'm currently working on olympiad project, that you shouldn't see
+I'm currently working on an olympiad project that you shouldn't see
 
 ---
 
