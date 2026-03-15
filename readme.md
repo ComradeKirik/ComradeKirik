@@ -1,27 +1,4 @@
-### 👨‍💻 Introduction
-
-Hello, I am Kirill
-
-Beginner Backend Developer
-
-I'm learning how to code right now and there you can see my projects.
-
-You can contact me but you need to wait up to week. Good luck.
-
-I'm currently working on an olympiad project that you shouldn't see
-
----
-
-### 🛠️ Technologies & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram" />
-</div>
-
----
+### На пересмотре
 
 ### 📊 GitHub Stats
 
